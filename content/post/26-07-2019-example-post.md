@@ -1,6 +1,6 @@
 ---
 title: An example title
-summary: Here we describe how to add a page to your site.
+summary: Look, a new post!
 date: "2019-07-26T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
