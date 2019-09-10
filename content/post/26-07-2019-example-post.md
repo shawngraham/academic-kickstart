@@ -14,4 +14,16 @@ header:
   image: ""
 ---
 
-blah blah blah blah blah
+# Look! Behold! Awesomesauce!
+
+This is a demo post. The metadata was in YAML, but now I'm writing in `markdwon`.
+
+Links look like this [here's a link to google.com](http://google.com).
+
+Ta da
+
++ bullet
++ bullet point
++ another ppoint
+
+
