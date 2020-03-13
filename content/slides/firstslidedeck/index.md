@@ -67,6 +67,16 @@ $$
 
 ---
 
+Insert an image from your static/img folder
+
+```
+![alt-text](/img/book.png)
+```
+
+![](/img/book.png)
+
+---
+
 ## Fragments
 
 Make content appear incrementally
